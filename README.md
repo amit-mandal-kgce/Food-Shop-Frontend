@@ -1,1 +1,1 @@
-Open [Visit our website](http://www.example.com)
+Open [Visit our website](https://amit-mandal-kgce.github.io/Food-Shop-Frontend/)
